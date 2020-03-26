@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "709391426384",
+    "firebase_url": "https://deeplinktest-357e1.firebaseio.com",
+    "project_id": "deeplinktest-357e1",
+    "storage_bucket": "deeplinktest-357e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709391426384:android:7537ce9b69893280124255",
+        "android_client_info": {
+          "package_name": "com.stdio.testdeeplinks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709391426384-dclei1n4kot4f4koi3hkjkrtug929fu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuEHWxAmDTaG2icmjAzjBNH53YYuS928w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709391426384-dclei1n4kot4f4koi3hkjkrtug929fu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
